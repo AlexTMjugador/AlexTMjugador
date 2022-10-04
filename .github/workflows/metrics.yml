@@ -28,7 +28,6 @@ jobs:
           template: classic
           base: header
           base_indepth: yes
-          config_display: columns
           config_octicon: yes
           config_timezone: Europe/Madrid
           plugin_gists: yes
