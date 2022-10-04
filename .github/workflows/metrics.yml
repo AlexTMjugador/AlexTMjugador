@@ -26,7 +26,7 @@ jobs:
           # Options
           user: AlexTMjugador
           template: classic
-          base: header, activity
+          base: header
           base_indepth: yes
           config_display: columns
           config_octicon: yes
