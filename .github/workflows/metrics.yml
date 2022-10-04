@@ -26,14 +26,16 @@ jobs:
           # Options
           user: AlexTMjugador
           template: classic
-          base: header, activity, community
+          base: header, activity
           base_hireable: yes
+          base_indepth: yes
           config_display: columns
           config_octicon: yes
           config_timezone: Europe/Madrid
+          plugin_gists: yes
           plugin_habits: yes
           plugin_habits_charts_type: classic
-          plugin_habits_days: 14
+          plugin_habits_days: 90
           plugin_habits_facts: yes
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
@@ -41,11 +43,12 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
           plugin_notable_self: yes
           plugin_notable_types: commit
           plugin_stackoverflow: yes
-          plugin_stackoverflow_limit: 2
-          plugin_stackoverflow_lines: 4
+          plugin_stackoverflow_limit: 1
+          plugin_stackoverflow_lines: 3
           plugin_stackoverflow_lines_snippet: 2
           plugin_stackoverflow_sections: answers-top, questions-recent
           plugin_stackoverflow_user: 9366153
