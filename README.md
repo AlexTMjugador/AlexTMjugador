@@ -19,6 +19,6 @@
 
 <h2>My impact at a glance ✨</h2>
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+<img src="/github-metrics.svg" alt="Metrics">
 
 </div>
