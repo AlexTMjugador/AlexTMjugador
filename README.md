@@ -18,7 +18,7 @@
 		</td>
 		<td width="50%">
 			<h2>✨ My impact at a glance</h2>
-			<img src="/github-metrics.svg" alt="Metrics">
+			<a href="https://raw.githubusercontent.com/AlexTMjugador/AlexTMjugador/main/github-metrics.svg"><img src="/github-metrics.svg" alt="Metrics"></a>
 		</td>
 	</tr>
 </table>
