@@ -13,7 +13,7 @@
 			<p>🧀 𝙸 𝚕𝚒𝚔𝚎 𝚌𝚑𝚎𝚎𝚜𝚎.</p>
 			<h2>Contact 🤝</h2>
 			<a href="#contact-"><img src="https://badges.krynn.dev/discord?manual=true&tag=AlexTMjugador%235124&padding=4" alt="Discord contact"></a>
-			<a href="mailto:alejandro.gonzalez.correo@gmail.com"><img src="https://badges.krynn.dev/email?address=alejandro.gonzalez.correo@gmail.com&padding=4" alt="E-mail contact"></a>
+			<a href="mailto:me@alegon.dev"><img src="https://badges.krynn.dev/email?address=me@alegon.dev&padding=4" alt="E-mail contact"></a>
 		</td>
 		<td width="50%">
 			<h2>✨ My impact at a glance</h2>
