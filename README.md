@@ -12,8 +12,8 @@
 			<p>🎮 𝙸 𝚙𝚕𝚊𝚢 𝚟𝚒𝚍𝚎𝚘 𝚐𝚊𝚖𝚎𝚜.</p>
 			<p>🧀 𝙸 𝚕𝚒𝚔𝚎 𝚌𝚑𝚎𝚎𝚜𝚎.</p>
 			<h2>Contact 🤝</h2>
-			<a href="#contact-"><img src="https://img.shields.io/badge/Discord-AlexTMjugador%235124-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: AlexTMjugador#5124"></a>
-			<a href="mailto:me@alegon.dev"><img src="https://img.shields.io/badge/Email-me@alegon.dev-EA4335?style=for-the-badge" alt="Email: me@alegon.dev"></a>
+			<a href="#contact-"><img src="https://img.shields.io/badge/Discord-AlexTMjugador%235124-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord: AlexTMjugador#5124"></a>
+			<a href="mailto:me@alegon.dev"><img src="https://img.shields.io/badge/Email-me@alegon.dev-EA4335?style=flat-square" alt="Email: me@alegon.dev"></a>
 		</td>
 		<td width="50%">
 			<h2>✨ My impact at a glance</h2>
