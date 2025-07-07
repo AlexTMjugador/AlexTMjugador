@@ -37,7 +37,7 @@ jobs:
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
           plugin_notable_self: yes
-          plugin_notable_types: commit,pull_request,issue
+          plugin_notable_types: commit,pull_request
           plugin_stackoverflow: yes
           plugin_stackoverflow_limit: 1
           plugin_stackoverflow_lines: 2
